@@ -1,3 +1,4 @@
 myenv/
 scriber/.env
-scriber/.flaskenv
+instance/flaskenv.cfg
+__pycache__/
